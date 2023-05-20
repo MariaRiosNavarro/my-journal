@@ -9,13 +9,13 @@
   font-size: 14px;
   line-height: 18px;
   text-align: center;
-  margin: 1.5rem;
+  margin: 2rem;
 }
 
 .entries-section__list-item__journal-icon {
   position: absolute;
   right: 0;
-  top: 4rem;
+  top: 5rem;
 }
 
 .entries-section__list-item__journal-title {
