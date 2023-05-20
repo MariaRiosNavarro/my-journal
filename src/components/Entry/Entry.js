@@ -1,3 +1,6 @@
+
+
+
 export default function Entry({ title, date, text, icon }) {
   return (
     <li>
