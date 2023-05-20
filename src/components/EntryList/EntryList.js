@@ -1,8 +1,8 @@
-
+import "./EntryList.css"
 
 export default function EntryList({ children }) {
     return (
-      <ul>
+      <ul className="entries-section__list">
         {children}
       </ul>
     );
