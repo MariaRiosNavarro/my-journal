@@ -1,6 +1,7 @@
 import Header from "./components/Header/Header.js";
 import EntryForm from "./components/EntryForm/EntryForm.js";
 import EntriesSection from "./components/EntriesSection/EntriesSection.js";
+import Footer from "./components/Footer/Footer.js";
 import "./index.css";
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
         <EntryForm />
         <EntriesSection />
       </main>
-      {/* <Footer />   */}
+      <Footer />
     </>
   );
 }

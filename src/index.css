@@ -5,8 +5,6 @@ I import it to use it in all the APP*/
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
-
-
 ul {
   margin: 0;
   padding: 0;
@@ -15,8 +13,13 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: max-content;
 }
 
 code {
   font-family: "Open Sans", sans-serif;
+}
+
+main {
+  position: relative;
 }
