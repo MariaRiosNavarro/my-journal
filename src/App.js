@@ -1,12 +1,12 @@
-import  from ''
-import './App.css';
+// import  from ''
+import "./App.css";
 
 function App() {
   return (
     <>
-      <Header/>
-      <Main/>
-      <Footer/>
+      <Header />
+      <Main />
+      <Footer />
     </>
   );
 }
