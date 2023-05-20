@@ -1,10 +1,9 @@
-export default function Tab({ tabname, tabnumber }) {
+import "./Tab.css";
+
+export default function Tab({ name, count }) {
   return (
-    <>
-      <li className="tabtitle">{tabname}</li>
-      <li className="tabcounter">
-        <span className="tabcounter__span">{tabnumber}</span>
-      </li>
-    </>
+    <li className="tab-bar__tab">
+      {name} <span className="tab-bar__tab-counter">({count})</span>
+    </li>
   );
 }

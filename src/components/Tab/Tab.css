@@ -1,0 +1,4 @@
+.tab-bar__tab {
+  display: flex;
+  flex-direction: row;
+}
