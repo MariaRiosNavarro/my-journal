@@ -1,0 +1,51 @@
+.entry-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem;
+}
+
+.entry-form__heading {
+  align-self: center;
+  font-size: medium;
+  font-weight: 700;
+  color: var(--color-granite);
+}
+
+.entry-form__heading,
+.entry-form__button {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.entry-form__input,
+.entry-form__textarea {
+  padding: 1.5rem;
+  border: 1px solid var(--color-water-10);
+  border-radius: 5px;
+}
+
+/* With figma, the styles of the sample can be analysed. 
+I have used it to get more accurate data for the sample example.
+resources download in https://github.com/neuefische/web-exercises/tree/main/sessions/react-project-setup/journal-app */
+
+.entry-form__button {
+  align-self: center;
+  margin: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 40px;
+  gap: 8px;
+  width: 133px;
+  height: 48px;
+  background: #ff4a11;
+  border-radius: 4px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  border: none;
+}
