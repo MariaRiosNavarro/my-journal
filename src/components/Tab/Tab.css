@@ -1,4 +1,14 @@
 .tab-bar__tab {
-  display: flex;
-  flex-direction: row;
+  list-style: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.tab-bar__tab-counter {
+  margin-left: 0.5rem;
+  margin-right: 1rem;
+  /* border-radius: 999px;
+  border: 1px solid gray; */
+  padding: 0px 9px 2px;
 }
