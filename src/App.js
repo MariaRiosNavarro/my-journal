@@ -9,9 +9,9 @@ function App() {
       <Header />
       <main>
         <EntryForm />
-        <EntriesSection/>
+        <EntriesSection />
       </main>
-      {/* <Footer />  */}
+      {/* <Footer />   */}
     </>
   );
 }
