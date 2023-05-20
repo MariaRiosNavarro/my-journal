@@ -1,5 +1,8 @@
 .header {
-  background-color: var(--color-foam);
+  background-color: var(--color-water-10);
   color: var(--color-granite);
-  text-align: center;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
