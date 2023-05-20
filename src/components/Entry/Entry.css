@@ -1,4 +1,35 @@
 .entries-section__list-item {
   display: flex;
   flex-direction: column;
+  position: relative;
+}
+
+.entries-section__list-item__journal-date {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  margin: 1.5rem;
+}
+
+.entries-section__list-item__journal-icon {
+  position: absolute;
+  right: 0;
+  top: 4rem;
+}
+
+.entries-section__list-item__journal-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.entries-section__list-item__journal-text {
+  margin-top: 1rem;
+}
+
+.entries-section__list-separation-line {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
