@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# A more modern version of this Repo is [here](https://github.com/MariaRiosNavarro/react-journal-app2)(local Storage exercise).
+
+---
+
+---
+
+---
+
+---
+
+
+
+Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
