@@ -1,5 +1,5 @@
 import "./Entry.css";
-import FavoriteButton from "../favouriteButton/FavouriteButton";
+import FavoriteButton from "../FavoriteButton/FavoriteButton.js";
 
 export default function Entry({ title, date, text }) {
   return (
