@@ -1,8 +1,6 @@
 import TabBar from "../TabBar/TabBar.js";
 import EntryList from "../EntryList/EntryList.js";
 import Entry from "../Entry/Entry.js";
-import starfilled from "../../star-filled.svg";
-import star from "../../star.svg";
 import "./EntriesSection.css";
 
 export default function EntriesSection(tabname, tabnumber) {
