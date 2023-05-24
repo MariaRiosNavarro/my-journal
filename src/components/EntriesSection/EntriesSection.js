@@ -14,19 +14,16 @@ export default function EntriesSection(tabname, tabnumber) {
           date="27.02.2028"
           title="Thats life in the city"
           text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum"
-          icon={starfilled}
         />
         <Entry
           date="26.02.2028"
           title="Thats life in the city"
           text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum"
-          icon={star}
         />
         <Entry
           date="25.02.2028"
           title="Thats life in the city"
           text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum"
-          icon={star}
         />
       </EntryList>
     </section>
