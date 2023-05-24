@@ -12,11 +12,7 @@
   margin: 2rem;
 }
 
-.entries-section__list-item__journal-icon {
-  position: absolute;
-  right: 0;
-  top: 5rem;
-}
+
 
 .entries-section__list-item__journal-title {
   font-style: normal;
