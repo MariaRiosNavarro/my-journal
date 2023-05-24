@@ -16,7 +16,7 @@ export default function FavoriteButton() {
 
   return (
     <button
-      className="entries-section__list-item__journal-favourite-button"
+      className="entries-section__list-item__journal-fav-button"
       //give the toggle Function-onclick to onclick atribute
       onClick={isFavorite}
       aria-label="favorite"

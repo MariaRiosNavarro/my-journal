@@ -1,5 +1,24 @@
-.entries-section__list-item__journal-favourite-button {
-  position: absolute;
+/* .entries-section__list-item__journal-fav-button { */
+/* position: absolute;
   right: 0;
-  top: 5rem;
+  top: 5rem; */
+
+/* appearance: none;
+  background: none;
+  border: none;
+  padding: 0;
+  border-radius: 999px;
+  aspect-ratio: 1;
+  transition: background-color 0.2s ease-in-out;
+  background-color: transparent;
+  margin: -6px;
+  padding: 6px;
 }
+
+.entries-section__list-item__journal-fav-button:hover {
+  background-color: var(--color-water);
+}
+
+.entries-section__list-item__journal-fav-button:active {
+  background-color: var(--color-water-10);
+} */
